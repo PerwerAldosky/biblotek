@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\RTX 2060\\source\\repos\\LibaryApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B6840FBE-18BE-4CDE-89C2-01BCAFC40313}|LibaryApplication\\LibaryApplication.csproj|c:\\users\\rtx 2060\\source\\repos\\libaryapplication\\libaryapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6840FBE-18BE-4CDE-89C2-01BCAFC40313}|LibaryApplication\\LibaryApplication.csproj|solutionrelative:libaryapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6840FBE-18BE-4CDE-89C2-01BCAFC40313}|LibaryApplication\\LibaryApplication.csproj|c:\\users\\rtx 2060\\source\\repos\\libaryapplication\\libaryapplication\\views\\loans\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B6840FBE-18BE-4CDE-89C2-01BCAFC40313}|LibaryApplication\\LibaryApplication.csproj|solutionrelative:libaryapplication\\views\\loans\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6840FBE-18BE-4CDE-89C2-01BCAFC40313}|LibaryApplication\\LibaryApplication.csproj|c:\\users\\rtx 2060\\source\\repos\\libaryapplication\\libaryapplication\\views\\loans\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B6840FBE-18BE-4CDE-89C2-01BCAFC40313}|LibaryApplication\\LibaryApplication.csproj|solutionrelative:libaryapplication\\views\\loans\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6840FBE-18BE-4CDE-89C2-01BCAFC40313}|LibaryApplication\\LibaryApplication.csproj|c:\\users\\rtx 2060\\source\\repos\\libaryapplication\\libaryapplication\\models\\loan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6840FBE-18BE-4CDE-89C2-01BCAFC40313}|LibaryApplication\\LibaryApplication.csproj|solutionrelative:libaryapplication\\models\\loan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6840FBE-18BE-4CDE-89C2-01BCAFC40313}|LibaryApplication\\LibaryApplication.csproj|c:\\users\\rtx 2060\\source\\repos\\libaryapplication\\libaryapplication\\controllers\\loanscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6840FBE-18BE-4CDE-89C2-01BCAFC40313}|LibaryApplication\\LibaryApplication.csproj|solutionrelative:libaryapplication\\controllers\\loanscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6840FBE-18BE-4CDE-89C2-01BCAFC40313}|LibaryApplication\\LibaryApplication.csproj|c:\\users\\rtx 2060\\source\\repos\\libaryapplication\\libaryapplication\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6840FBE-18BE-4CDE-89C2-01BCAFC40313}|LibaryApplication\\LibaryApplication.csproj|solutionrelative:libaryapplication\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6840FBE-18BE-4CDE-89C2-01BCAFC40313}|LibaryApplication\\LibaryApplication.csproj|c:\\users\\rtx 2060\\source\\repos\\libaryapplication\\libaryapplication\\views\\books\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B6840FBE-18BE-4CDE-89C2-01BCAFC40313}|LibaryApplication\\LibaryApplication.csproj|solutionrelative:libaryapplication\\views\\books\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Loan.cs",
+              "DocumentMoniker": "C:\\Users\\RTX 2060\\source\\repos\\LibaryApplication\\LibaryApplication\\Models\\Loan.cs",
+              "RelativeDocumentMoniker": "LibaryApplication\\Models\\Loan.cs",
+              "ToolTip": "C:\\Users\\RTX 2060\\source\\repos\\LibaryApplication\\LibaryApplication\\Models\\Loan.cs",
+              "RelativeToolTip": "LibaryApplication\\Models\\Loan.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T20:59:44.664Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\RTX 2060\\source\\repos\\LibaryApplication\\LibaryApplication\\Program.cs",
+              "RelativeDocumentMoniker": "LibaryApplication\\Program.cs",
+              "ToolTip": "C:\\Users\\RTX 2060\\source\\repos\\LibaryApplication\\LibaryApplication\\Program.cs",
+              "RelativeToolTip": "LibaryApplication\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T22:11:26.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\RTX 2060\\source\\repos\\LibaryApplication\\LibaryApplication\\Views\\Loans\\Index.cshtml",
+              "RelativeDocumentMoniker": "LibaryApplication\\Views\\Loans\\Index.cshtml",
+              "ToolTip": "C:\\Users\\RTX 2060\\source\\repos\\LibaryApplication\\LibaryApplication\\Views\\Loans\\Index.cshtml",
+              "RelativeToolTip": "LibaryApplication\\Views\\Loans\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-26T19:56:05.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\RTX 2060\\source\\repos\\LibaryApplication\\LibaryApplication\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "LibaryApplication\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\RTX 2060\\source\\repos\\LibaryApplication\\LibaryApplication\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "LibaryApplication\\Controllers\\BooksController.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAgwCYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T19:49:12.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoansController.cs",
+              "DocumentMoniker": "C:\\Users\\RTX 2060\\source\\repos\\LibaryApplication\\LibaryApplication\\Controllers\\LoansController.cs",
+              "RelativeDocumentMoniker": "LibaryApplication\\Controllers\\LoansController.cs",
+              "ToolTip": "C:\\Users\\RTX 2060\\source\\repos\\LibaryApplication\\LibaryApplication\\Controllers\\LoansController.cs",
+              "RelativeToolTip": "LibaryApplication\\Controllers\\LoansController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T19:35:46.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\RTX 2060\\source\\repos\\LibaryApplication\\LibaryApplication\\Views\\Loans\\Create.cshtml",
+              "RelativeDocumentMoniker": "LibaryApplication\\Views\\Loans\\Create.cshtml",
+              "ToolTip": "C:\\Users\\RTX 2060\\source\\repos\\LibaryApplication\\LibaryApplication\\Views\\Loans\\Create.cshtml",
+              "RelativeToolTip": "LibaryApplication\\Views\\Loans\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-26T19:33:40.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\RTX 2060\\source\\repos\\LibaryApplication\\LibaryApplication\\Views\\Books\\Create.cshtml",
+              "RelativeDocumentMoniker": "LibaryApplication\\Views\\Books\\Create.cshtml",
+              "ToolTip": "C:\\Users\\RTX 2060\\source\\repos\\LibaryApplication\\LibaryApplication\\Views\\Books\\Create.cshtml",
+              "RelativeToolTip": "LibaryApplication\\Views\\Books\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-26T19:33:11.238Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

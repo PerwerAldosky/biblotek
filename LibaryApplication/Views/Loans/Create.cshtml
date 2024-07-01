@@ -1,0 +1,22 @@
+﻿@model List<Book>
+@{
+    // Ingenting här
+}
+
+<form action="/Loans/Create" method="post">
+    <select name="BookId" required>
+        @foreach (var book in Model)
+        {
+            <option value="@book.Id">@book.Title</option>
+        }
+    </select>
+    <input type="text" name="UserId" placeholder="Your User ID" required />
+    <input type="date" name="LoanDate" placeholder="Loan Date" required />
+    <input type="date" name="ReturnDate" placeholder="Return Date" required />
+    <button type="submit" class="btn btn-secondary btn-sm">Save</button>
+    
+    <h6>I hope you enjoy it!!</h6>
+</form>
+
+
+
